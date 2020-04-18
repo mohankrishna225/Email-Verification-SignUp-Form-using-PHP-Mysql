@@ -1,6 +1,6 @@
 # Email-Verification-SignUp-Form-using-PHP-Mysql
 
-Email Verification of Signup Forms with Remember Me |Forgot Passoword |Email-Verification |Admin Page
+Email Verification of Signup Forms with Remember Me |Forgot Password |Email-Verification |Admin Page
 
 Instructions for using this Repo:
 
