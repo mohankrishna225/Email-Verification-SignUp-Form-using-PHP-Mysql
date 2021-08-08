@@ -659,7 +659,7 @@ function password_reset() {
 	        	    echo "Passwords Match";
                   }else {
 
-                  	echo "Passwords donot Match"
+                  	echo "Passwords donot Match";
                   }
 
 	        	}
